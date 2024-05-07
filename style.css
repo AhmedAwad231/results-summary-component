@@ -191,7 +191,7 @@ body{
         align-items: center;
     }
     .summary .title{
-        margin-right: 280px;
+        margin-right: 240px;
     }
     .summary .rows,.summary .row.row:nth-child(3),.summary .row.row:nth-child(4),.summary .row.row:nth-child(5){
         width: 60%;
